@@ -1,2 +1,5 @@
 # Eyantra-2021-Vargi-Bots
 Simulation of Automated Warehouse using UR5 robots
+
+![5bydt3](https://user-images.githubusercontent.com/53989530/120644459-f89a5580-c494-11eb-97da-2e1a3d0a040e.gif)
+
